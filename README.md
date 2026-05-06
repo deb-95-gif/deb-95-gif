@@ -1,7 +1,7 @@
 # Hi, I'm Debanjan Bhowmick 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;AWS+%7C+Python+%7C+SQL;Building+Scalable+Data+Pipelines;Open+to+Opportunities&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;AWS+%7C+Python+%7C+SQL;Building+Scalable+Data+Pipelines;&center=true&width=500&height=45">
 </p>
 
 <p align="center">
