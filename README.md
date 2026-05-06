@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Data Engineer with 3+ years experience in building data pipelines  
+- 👨‍💻 Data Engineer with 4+ years experience in building data pipelines  
 - ☁️ Hands-on with AWS (S3, Lambda, Athena, Glue)  
 - 📊 Focused on **data quality, observability, and scalable architectures**  
 - 🔍 Exploring **real-time + production-grade data systems**   
